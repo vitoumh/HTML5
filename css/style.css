@@ -52,6 +52,11 @@ main{
     text-align:justify;
 
 }
+
+.fotos li{
+	display: inline-block;
+}
+
 article{
 }
 .titulo-articulo a{
